@@ -6,7 +6,7 @@ def instantiate_new_array
    array_two = ["one","two"]
  end
  
- def first_element(element)
+ def first_element(array)
    array = ["misty","kitty","ash"]
    array[0]
  end
