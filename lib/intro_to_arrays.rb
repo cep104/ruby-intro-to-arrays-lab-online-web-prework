@@ -7,6 +7,6 @@ def instantiate_new_array
  end
  
  def first_element(my_first_element)
-   @cats = ["misty","kitty","ash"]
-   my_first_element = cats[0]
+   @taylor_swift = ["Welcome to New York", "Blank Space", "Style", "Out of The Woods"]
+   my_first_element = @taylor_swift[0]
  end
