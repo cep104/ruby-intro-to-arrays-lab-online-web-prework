@@ -8,5 +8,5 @@ def instantiate_new_array
  
  def first_element(array)
    cats = ["misty","kitty","ash"]
-   cats[0]
+   cats.index(0)
  end
