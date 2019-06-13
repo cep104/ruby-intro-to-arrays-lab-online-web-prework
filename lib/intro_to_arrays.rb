@@ -6,7 +6,7 @@ def instantiate_new_array
    @array_two = ["one","two"]
  end
  
- def first_element(element_one)
+ def first_element(my_first_element)
    @cats = ["misty","kitty","ash"]
-   element_one = cats[0]
+   my_first_element = cats[0]
  end
